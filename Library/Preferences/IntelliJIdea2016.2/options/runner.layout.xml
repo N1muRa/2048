@@ -1,0 +1,212 @@
+<application>
+  <component name="RunnerLayoutSettings">
+    <runner id="JavaRunner.JAVAEE_CONSOLE">
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="Deployment" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="left" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Unnamed_untitled/logs/localhost.2016-11-04.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Unnamed_untitled/logs/catalina.2016-11-04.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OOADLab/logs/localhost.2016-12-06.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OOADLab/logs/catalina.2016-12-06.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Unnamed_OnlineMall/logs/localhost.2016-12-19.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Unnamed_OnlineMall/logs/catalina.2016-12-19.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OnlineMall/logs/localhost.2016-12-19.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OnlineMall/logs/catalina.2016-12-19.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="4" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OnlineMall/logs/catalina.2016-12-20.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Unnamed_OnlineMall_4/logs/localhost.2016-12-20.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Unnamed_OnlineMall_4/logs/catalina.2016-12-20.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Unnamed_OnlineMall_4/logs/localhost.2016-12-23.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Unnamed_OnlineMall_4/logs/catalina.2016-12-23.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OnlineMall/logs/localhost.2016-12-25.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OnlineMall/logs/catalina.2016-12-25.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OnlineMall_2/logs/localhost.2017-01-03.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OnlineMall_2/logs/catalina.2017-01-03.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OnlineMall_2/logs/localhost.2017-01-04.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OnlineMall_2/logs/catalina.2017-01-04.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/tomcat/Tomcat_7_0_70_OnlineMall_2/logs/catalina.2017-01-07.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="displayName" value="Server" />
+        <option name="leftProportion" value="0.16504262" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="8" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="9" />
+        <option name="index" value="2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="4" />
+        <option name="index" value="4" />
+      </TabImpl>
+      <General />
+    </runner>
+    <runner id="JavaRunner">
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+      </TabImpl>
+      <General />
+    </runner>
+    <runner id="Android">
+      <ViewImpl>
+        <option name="ID" value="Android Logcat" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="Monitors" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl />
+      <TabImpl>
+        <option name="defaultIndex" value="1" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <General />
+    </runner>
+  </component>
+</application>
